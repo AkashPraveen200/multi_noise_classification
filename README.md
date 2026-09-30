@@ -74,7 +74,7 @@ LungCT_UNetPlusPlus/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/CodeDemon777/full_stack_Multi_Noise_classifcation.git
+git clone https://github.com/AkashPraveen200/multi_noise_classification.git
 cd full_stack_Multi_Noise_classifcation
 
 # 2. Set up virtual environment

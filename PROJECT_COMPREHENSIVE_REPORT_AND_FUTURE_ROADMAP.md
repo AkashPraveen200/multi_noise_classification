@@ -1,7 +1,7 @@
 # 📑 LungCT UNet++ — Comprehensive Project Report & Future Improvement Roadmap
 
 **Project Title:** Multi-Noise Pixel-Level Classification and Automated Clinical Restoration in Low-Dose Lung CT Images Using 5-Level Nested U-Net (UNet++)  
-**Repository:** [https://github.com/CodeDemon777/full_stack_Multi_Noise_classifcation](https://github.com/CodeDemon777/full_stack_Multi_Noise_classifcation)  
+**Repository:** [https://github.com/AkashPraveen200/multi_noise_classification](https://github.com/AkashPraveen200/multi_noise_classification)  
 **Target Domain:** Medical Image Processing, Deep Learning in Radiology, Computer-Aided Diagnosis (CADx)  
 **Date:** September 2026  
 

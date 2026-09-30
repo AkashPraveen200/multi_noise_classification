@@ -70,4 +70,4 @@ This guide is designed to help you showcase the **LungCT UNet++ Full-Stack Medic
 ---
 
 ## 🌐 4. GitHub Repository Link to Include in Resume:
-👉 **[https://github.com/CodeDemon777/full_stack_Multi_Noise_classifcation](https://github.com/CodeDemon777/full_stack_Multi_Noise_classifcation)**
+👉 **[https://github.com/AkashPraveen200/multi_noise_classification](https://github.com/AkashPraveen200/multi_noise_classification)**
